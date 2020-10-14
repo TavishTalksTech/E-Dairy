@@ -1,0 +1,17 @@
+
+.headstart{
+	background-color:black;
+	color:#FF6666;
+	font-size: 40px;
+}
+
+.bodystart{
+	font-size: 20px;
+	background-color:black;
+	color:white;
+	text-align: justify;
+}
+
+body{
+	background-color:black;
+}
